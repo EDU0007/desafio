@@ -11,7 +11,7 @@ Consulte **Implantação** para saber como implantar o projeto.
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-git clone 
+git clone https://github.com/EDU0007/desafio.git
 ```
 
 ### 🔧 Instalação
