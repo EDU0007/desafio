@@ -13,7 +13,7 @@ Consulte **Implantação** para saber como implantar o projeto.
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Dar exemplos
+git clone 
 ```
 
 ### 🔧 Instalação
@@ -23,7 +23,7 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 Diga como essa etapa será:
 
 ```
-Dar exemplos
+para rodar o projeto ´só abrir o index Html 
 ```
 
 E repita:
