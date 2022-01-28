@@ -19,7 +19,7 @@ git clone https://github.com/EDU0007/desafio.git
 
 
 ```
-para executar o projeto  é só abrir o index.html a parte da logica estará no arquivo main.js  
+para executar o projeto  é só abrir a pasta desafio e localizar o arquivo index.html a parte da logica estará no arquivo main.js  
 ````
 
 
